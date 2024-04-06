@@ -1,0 +1,22 @@
+{
+  "article": [
+    {
+      "id": "2",
+      "title": "another title",
+      "desc": "lorem ipsu",
+      "amount": "2500"
+    },
+    {
+      "id": "1",
+      "title": "a titlell",
+      "desc": "lorem ipsu",
+      "amount": "25000"
+    },
+    {
+      "id": "2d1f",
+      "title": "Ipsu",
+      "desc": "Lorem ipsu",
+      "amount": "544"
+    }
+  ]
+}
