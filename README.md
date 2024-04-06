@@ -1,1 +1,1 @@
-# vitejs-shadcn-react-starter
+# kritek-react-test
